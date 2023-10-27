@@ -39,7 +39,7 @@ For a cloud-based setup, follow these steps:
 
 1. Clone this repository to your local machine.
 
-2. Open a terminal using Git Bash and navigate to the root directory of the repo.
+2. Open a terminal using Git Bash and navigate to the root directory of the project.
 
 3. Install the project dependencies:
 
